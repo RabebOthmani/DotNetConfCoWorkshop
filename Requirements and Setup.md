@@ -9,6 +9,8 @@ It is important to know that Visual Studio for Mac is not supported for now. You
 
 * Bot Application, Bot Controller and Bot Dialog .zip files.
 
+* Bot Framework Emulator <https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v3.5.33>
+
 ## Setup
 
 * In Visual Studio, update all extensions to the latest version.
